@@ -1,0 +1,19 @@
+/* App.css */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+
+/* Define font family for the body or any specific class */
+body {
+  /* font-family: 'Montserrat', sans-serif; */
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+    font-family: "Poppins", sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
+    /* font-family: 'Montserrat', 'sans-serif'; */
+    /* font-family: 'Lato', sans-serif; */
+    /* font-family: 'Open Sans', sans-serif; */
+    
+    background: rgb(238, 245, 246);
+}
+

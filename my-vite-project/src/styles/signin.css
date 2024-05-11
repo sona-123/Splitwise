@@ -1,0 +1,22 @@
+/* SignIn.css */
+
+.signin-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.signin-form {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.signin-button {
+    margin-top: 20px;
+}
+
+.signin-google {
+    margin-top: 20px;
+}
